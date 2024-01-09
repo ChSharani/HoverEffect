@@ -1,0 +1,57 @@
+.img{
+    height:500px;
+    width:500px;
+    color:aliceblue
+}
+.img1{
+    opacity: 0.5;
+     height:300px;
+    width:200px;
+    border-radius:80% 80%/ 60% 60%;
+}
+.img1:hover{
+    opacity: 1.0;
+    border-radius:50px;
+    box-shadow:15px 20px 20px black;
+    margin-bottom:10px;
+}
+.img2{
+    height:300px;
+    width:300px;
+    border-radius:500px;
+}
+.img2:hover{
+    border-radius:20px;
+    box-shadow:20px 20px 20px aquamarine;
+    margin-bottom:10px;
+    margin-right: 15px;
+}
+.img3{
+     height:500px;
+    width:500px;
+    border-radius:25px;
+}
+.img3:hover{ 
+    border-radius:20px;
+    box-shadow:15px 20px 20px #d56561;
+    margin-right:10px;
+}
+.image-container { 
+  width: 100px; 
+  height: 100px; 
+  background-image: url(simba lion.jpg); 
+} 
+ 
+.image-container:hover { 
+  background-image: url(lion.jpg); 
+} 
+.img5{
+     height:500px;
+    width:500px;
+    border-radius:15px;
+}
+.img5:hover{
+    border-radius:1050px;
+    box-shadow:15px 20px 20px black;
+    margin-bottom:10px;
+}
